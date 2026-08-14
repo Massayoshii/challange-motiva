@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "nome": "Trecho 1 (São Paulo - Jundiaí)",
+    "km_inicio": 0,
+    "km_fim": 15,
+    "tipo_vegetacao": "agressiva",
+    "risco_base": 0.7
+  },
+  {
+    "id": 2,
+    "nome": "Trecho 2 (Jundiaí - Itu)",
+    "km_inicio": 15,
+    "km_fim": 30,
+    "tipo_vegetacao": "moderada",
+    "risco_base": 0.5
+  },
+  {
+    "id": 3,
+    "nome": "Trecho 3 (Itu - Limeira)",
+    "km_inicio": 30,
+    "km_fim": 45,
+    "tipo_vegetacao": "agressiva",
+    "risco_base": 0.8
+  },
+  {
+    "id": 4,
+    "nome": "Trecho 4 (Limeira - Piracicaba)",
+    "km_inicio": 45,
+    "km_fim": 60,
+    "tipo_vegetacao": "moderada",
+    "risco_base": 0.5
+  },
+  {
+    "id": 5,
+    "nome": "Trecho 5 (Piracicaba - Rio Claro)",
+    "km_inicio": 60,
+    "km_fim": 75,
+    "tipo_vegetacao": "baixa",
+    "risco_base": 0.3
+  },
+  {
+    "id": 6,
+    "nome": "Trecho 6 (Rio Claro - Araraquara)",
+    "km_inicio": 75,
+    "km_fim": 90,
+    "tipo_vegetacao": "agressiva",
+    "risco_base": 0.9
+  },
+  {
+    "id": 7,
+    "nome": "Trecho 7 (Araraquara - São Carlos)",
+    "km_inicio": 90,
+    "km_fim": 105,
+    "tipo_vegetacao": "moderada",
+    "risco_base": 0.5
+  },
+  {
+    "id": 8,
+    "nome": "Trecho 8 (São Carlos - Itu)",
+    "km_inicio": 105,
+    "km_fim": 120,
+    "tipo_vegetacao": "moderada",
+    "risco_base": 0.5
+  }
+]
