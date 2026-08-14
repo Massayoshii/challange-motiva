@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "trecho_id": 1,
+    "data": "2026-08-08",
+    "tipo": "roçada",
+    "dias_duracao": 1,
+    "custo": 500
+  },
+  {
+    "id": 2,
+    "trecho_id": 2,
+    "data": "2026-08-11",
+    "tipo": "roçada",
+    "dias_duracao": 1,
+    "custo": 500
+  },
+  {
+    "id": 3,
+    "trecho_id": 3,
+    "data": "2026-07-18",
+    "tipo": "poda",
+    "dias_duracao": 2,
+    "custo": 1200
+  },
+  {
+    "id": 4,
+    "trecho_id": 4,
+    "data": "2026-08-09",
+    "tipo": "roçada",
+    "dias_duracao": 1,
+    "custo": 500
+  },
+  {
+    "id": 5,
+    "trecho_id": 5,
+    "data": "2026-07-25",
+    "tipo": "limpeza",
+    "dias_duracao": 1,
+    "custo": 400
+  },
+  {
+    "id": 6,
+    "trecho_id": 6,
+    "data": "2026-07-20",
+    "tipo": "poda",
+    "dias_duracao": 2,
+    "custo": 1200
+  },
+  {
+    "id": 7,
+    "trecho_id": 7,
+    "data": "2026-08-10",
+    "tipo": "roçada",
+    "dias_duracao": 1,
+    "custo": 500
+  },
+  {
+    "id": 8,
+    "trecho_id": 8,
+    "data": "2026-08-02",
+    "tipo": "roçada",
+    "dias_duracao": 1,
+    "custo": 500
+  }
+]
