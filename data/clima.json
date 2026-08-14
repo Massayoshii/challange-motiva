@@ -1,0 +1,68 @@
+[
+  {
+    "data": "2026-08-01",
+    "temperatura_media": 28.5,
+    "chuva_mm": 45,
+    "umidade": 72
+  },
+  {
+    "data": "2026-08-02",
+    "temperatura_media": 29.1,
+    "chuva_mm": 12,
+    "umidade": 68
+  },
+  {
+    "data": "2026-08-03",
+    "temperatura_media": 27.8,
+    "chuva_mm": 0,
+    "umidade": 65
+  },
+  {
+    "data": "2026-08-04",
+    "temperatura_media": 30.2,
+    "chuva_mm": 55,
+    "umidade": 75
+  },
+  {
+    "data": "2026-08-05",
+    "temperatura_media": 28.9,
+    "chuva_mm": 30,
+    "umidade": 70
+  },
+  {
+    "data": "2026-08-06",
+    "temperatura_media": 29.5,
+    "chuva_mm": 20,
+    "umidade": 68
+  },
+  {
+    "data": "2026-08-07",
+    "temperatura_media": 26.3,
+    "chuva_mm": 5,
+    "umidade": 60
+  },
+  {
+    "data": "2026-08-08",
+    "temperatura_media": 25.8,
+    "chuva_mm": 0,
+    "umidade": 58
+  },
+  {
+    "data": "2026-08-09",
+    "temperatura_media": 28.7,
+    "chuva_mm": 40,
+    "umidade": 71
+  },
+  {
+    "data": "2026-08-10",
+    "temperatura_media": 30.0,
+    "chuva_mm": 60,
+    "umidade": 76
+  },
+  {
+    "data": "2026-08-11",
+    "temperatura_media": 29.3,
+    "chuva_mm": 25,
+    "umidade": 69
+  }
+]
